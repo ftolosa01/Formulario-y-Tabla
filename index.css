@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    background-color: lightblue;
+}
+div{
+    margin-left: 25%;
+    max-width:   20%;
+}
+label{
+    width: 700px;
+    height: 10px;
+}
+input{
+    width: 700px;
+    text-align: start;
+}
+nav{
+    background-color: black;
+    width: auto;
+    text-align: start;
+    height: 30px;
+    font-size: 20px;
+    color: aqua;
+}
+button{
+    background-color: black;
+    width: 700px;
+    color: white;
+    margin-top: 10px;
+
+}
+#radio{
+    width: 15px;
+}

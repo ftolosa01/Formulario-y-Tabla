@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    margin: 0%;
+}
+th{
+margin-right: 25%;
+}
+
+#Tabla{
+    margin-block-start: 5%;
+    width: auto;
+    margin-left: 25%;
+}
+#TablaNombre{
+background-color: red;    
+}
+#PrimeraTabla{
+    background-color: bisque;
+}
+#segundaTabla{
+    background-color: bisque;
+}
+#terceraTabla{
+    background-color: bisque;
+}
+#cuartaTabla{
+    background-color: bisque;
+}
+nav{
+    background-color: black;
+    text-align: start;
+    height: 30px;
+    width: auto;
+    font-size: 20px;
+    color: white;
+}
